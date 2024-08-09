@@ -1,0 +1,1 @@
+A C# SQLCompare equivalent.
