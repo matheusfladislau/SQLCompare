@@ -1,0 +1,10 @@
+C:\Users\Fonseca\source\repos\SQLCompare\SQLCompare\obj\Debug\SQLCompare.csprojAssemblyReference.cache
+C:\Users\Fonseca\source\repos\SQLCompare\SQLCompare\obj\Debug\SQLCompare.Compare.resources
+C:\Users\Fonseca\source\repos\SQLCompare\SQLCompare\obj\Debug\SQLCompare.Principal.resources
+C:\Users\Fonseca\source\repos\SQLCompare\SQLCompare\obj\Debug\SQLCompare.Properties.Resources.resources
+C:\Users\Fonseca\source\repos\SQLCompare\SQLCompare\obj\Debug\SQLCompare.csproj.GenerateResource.cache
+C:\Users\Fonseca\source\repos\SQLCompare\SQLCompare\bin\Debug\SQLCompare.exe.config
+C:\Users\Fonseca\source\repos\SQLCompare\SQLCompare\bin\Debug\SQLCompare.exe
+C:\Users\Fonseca\source\repos\SQLCompare\SQLCompare\bin\Debug\SQLCompare.pdb
+C:\Users\Fonseca\source\repos\SQLCompare\SQLCompare\obj\Debug\SQLCompare.exe
+C:\Users\Fonseca\source\repos\SQLCompare\SQLCompare\obj\Debug\SQLCompare.pdb
