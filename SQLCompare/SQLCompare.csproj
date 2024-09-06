@@ -60,7 +60,8 @@
     <Compile Include="Forms\Principal.Designer.cs">
       <DependentUpon>Principal.cs</DependentUpon>
     </Compile>
-    <Compile Include="Models\DBField.cs" />
+    <Compile Include="Models\ListaDatabase.cs" />
+    <Compile Include="Models\ListaDBField.cs" />
     <Compile Include="Models\Persistencia.cs" />
     <Compile Include="Models\ListaTabela.cs" />
     <Compile Include="Program.cs" />
@@ -96,6 +97,7 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
+    <Content Include="Images\database.png" />
     <Content Include="Images\seta.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
